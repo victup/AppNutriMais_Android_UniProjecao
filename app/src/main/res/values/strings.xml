@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_dietas">Dietas</string>
+    <string name="menu_horarios">Horários</string>
+    <string name="menu_consultas">Consultas</string>
+    <string name="menu_carteira">Carteira</string>
+
+    <string name="app_name">AppNutriMais</string>
+    <string name="entrar">Entrar</string>
+    <string name="viver_bem_cuidar_da_sa_de">Viver bem é cuidar da saúde.</string>
+    <string name="informe_o_login">Informe o login</string>
+    <string name="informe_a_senha">Informe a senha</string>
+    <string name="todo">TODO</string>
+    <string name="bem_vindo_nutri">Bem vindo Nutri!</string>
+    <string name="bem_vindo_paciente">Bem vindo Paciente</string>
+    <string name="cadastrar_dieta">+ Cadastrar dieta</string>
+    <string name="todo2">TODO</string>
+    <string name="cadastro_de_dietas">Cadastro de dietas</string>
+    <string name="ou_crie_sua_conta_aqui">Ou crie sua conta aqui</string>
+    <string name="conectando_sa_de_e_bem_estar">conectando saúde e bem estar.</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="endere_o">endereço</string>
+    <string name="uf">UF</string>
+    <string name="bairro">Bairro</string>
+    <string name="cep">CEP</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="numero">Numero</string>
+    <string name="cidade">Cidade</string>
+    <string name="descri_o_da_dieta">Descrição da dieta</string>
+    <string name="data_de_vencimento">Data de Vencimento</string>
+    <string name="criar_dieta">Criar Dieta</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="nutricionista">Nutricionista</string>
+    <string name="paciente">Paciente</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perfil">Perfil</string>
+    <string name="codigo_paciente">Codigo Paciente</string>
+    <string name="todo7">TODO</string>
+    <string name="Home" />
+    <string name="pesquisar">Pesquisar</string>
+    <string name="c_digo_do_paciente">Código do paciente</string>
+    <string name="sobrenome_paciente">Sobrenome</string>
+    <string name="nome_paciente">Nome</string>
+    <string name="dieta_paciente">Dieta</string>
+    <string name="vencimento_dieta">Vencimento</string>
+    <string name="pesquisar_dieta">Pesquisar</string>
+    <string name="dietas_paciente">Dietas</string>
+    <string name="textview">TextView</string>
+    <string name="atualizar_dados">Atualizar Dados</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="consultar_dietas">Consultar Dietas</string>
+    <string name="nova_dieta">Nova Dieta</string>
+    <string name="next_dieta">TODO</string>
+    <string name="btnPreviousDieta">TODO</string>
+    <string name="imagemTopo">TODO</string>
+    <string name="quero_apagar_minha_conta_definitivamente">Quero apagar minha conta definitivamente</string>
+    <string name="msgText">TextView</string>
+    <string name="enviadorMsg">TextView</string>
+    <string name="conteudoId">TextView</string>
+    <string name="id">id</string>
+
+
+</resources>
